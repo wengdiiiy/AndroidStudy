@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">busan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="exit">종료하시겠습니까?</string>
+</resources>
